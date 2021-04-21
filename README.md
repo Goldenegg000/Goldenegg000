@@ -1,10 +1,11 @@
 abaut ge-runtime:
   - ge-runtime is a executable for running ge-code. 📒
-  - ge-runtime is a opensource project wich is coded using AutoHotKey.
+  - ge-runtime is a opensource project wich is coded in AutoHotKey.
   - ge-runtime is a safe runtime making safty the piority 🛡.
 
 abaut ge-code:
   - ge-code is simular to javascript, python and many other languages combined in one coding language.
+  - ge-code is easy to use and fast to learn ⏱. (if you alredy know the basics of coding)
   - ge-code also has aliases.
 
 <!---
