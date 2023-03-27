@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Goldenegg000
 - 👀 I’m interested in Programming
-- 🎮 I’m currently learning Autohotkey and modding minecraft
-- 📫 you can reach me on Discord by @goldenegg000
+- 🎮 I like to programm websites and games in unity.
+- 📫 You can reach me on most sozial medias using @goldenegg000
